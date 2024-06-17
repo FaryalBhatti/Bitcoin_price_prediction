@@ -4,7 +4,7 @@ Predict Bitcoin prices using historical data and machine learning models in Pyth
 ## Dataset
 The dataset used in this project is from Kaggle, link of dataset used in this project is provided in dataset.txt file as the dataset size was quite big.
 
-#### Description:
+## Description:
 This project aims to predict Bitcoin prices using historical data and various machine learning models. The project will involve data preprocessing, exploratory data analysis (EDA), feature engineering, and building predictive models. The goal is to understand the underlying patterns in Bitcoin prices and develop a reliable forecasting model.
 
 #### Key Steps:
