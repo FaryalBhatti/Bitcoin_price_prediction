@@ -38,5 +38,3 @@ This project aims to predict Bitcoin prices using historical data and various ma
    - Integrate sentiment analysis of Bitcoin-related news or social media posts to improve prediction accuracy.
    - Explore advanced deep learning models for time series forecasting.
 
-### Feedback:
-I am looking for feedback on the feasibility of this project within a 10-20 hour timeframe, suggestions for additional features or analyses, and any potential challenges I should be aware of. Additionally, I would appreciate advice on the most suitable machine learning models for this type of time series data.
