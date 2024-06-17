@@ -1,4 +1,4 @@
-# Project Idea: Bitcoin Price Prediction and Analysis
+# Project: Bitcoin Price Prediction and Analysis
 Predict Bitcoin prices using historical data and machine learning models in Python.
 
 ## Dataset
